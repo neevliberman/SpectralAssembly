@@ -1,4 +1,4 @@
-# spectral_assembly
+# SpectralAssembly
 The Eulerian path algorithm for spectral assembly with k-mer multiplicity
 
 ### Problem to Solve:
